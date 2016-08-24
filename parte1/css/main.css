@@ -1,0 +1,30 @@
+.box1 {
+
+padding: 0;
+margin: 0;
+background: #ee3e64; 
+width:200px;
+height:200px;
+position: static;
+}
+
+.box2 {
+padding: 0;
+margin: 0;
+background: #44accf; 
+width:200px;
+height:200px;
+position: static;
+}
+
+
+.box3 {
+	
+padding: 0;
+margin: 0;
+background: #b7d84b; 
+width:200px;
+height:200px;
+display:inline-block;
+position: static;
+}
